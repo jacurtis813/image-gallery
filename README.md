@@ -34,3 +34,9 @@ LIGHT GRAY: #ecf0f1
 16. Test and run the code that we have created as the image gallery in grid system
 17. Now we will begin to format the code at the medium breakpoint within our page, using bootstrap
 18. Format the breakpoints using the bootstrap column class names to break the page down cleanly
+19. Now we will create the icon for hero/ jumbotron- using bootstrap
+20. Learn how to create the icons for both the hero and the nav bar icon
+21. Learn how to use the padding and margin property for the nav bar with another class that is set in the framework
+22. Use these classes to set the nave bar flush with the hero buttoned up to it
+23. Test and run all the new code that we have now formatted within these files, one small issue with the padding on the top of the hero 
+24. Apply the padding top property and value on the body selector all the classes hold specificity over the element selector
