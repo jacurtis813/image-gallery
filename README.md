@@ -36,4 +36,6 @@ LIGHT GRAY: #ecf0f1
 5. Image content that we are using is from a website called unsplash
 6. Create the first class from the bootstrap cdn within the div container, createing the jumbotron
 7. Use bootstrap to further style the jumbotron, place within the class of container, this applying the border-radius property and margin to the jumbotron
-8. 
+8. Create the navbar for the image gallery, start with copying the content for the navbar from a previous navbar that we created
+9. Edit the opening tab name in the navbar to read images rather than the previous text
+10. Test and run the code that we have used to build our navbar, remember that this is why it is beneficial to using bootstrap, large pieces of content all at once
