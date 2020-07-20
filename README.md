@@ -29,3 +29,8 @@ LIGHT GRAY: #ecf0f1
 
 ## Breakdown/ What we are doing?
 
+1. Create all files needed to begin creating the challenge for this course content
+2. After creating the files needed and locating the content to fill the image gallery challenge
+3. Copy the link and script tags/ elements to locate the content from within bootstrap
+4. Create our own link to perform our own styling
+5. 
