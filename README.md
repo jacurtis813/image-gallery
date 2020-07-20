@@ -39,3 +39,6 @@ LIGHT GRAY: #ecf0f1
 8. Create the navbar for the image gallery, start with copying the content for the navbar from a previous navbar that we created
 9. Edit the opening tab name in the navbar to read images rather than the previous text
 10. Test and run the code that we have used to build our navbar, remember that this is why it is beneficial to using bootstrap, large pieces of content all at once
+11. Understanding how to change the color of the jumbotron simply by changing the name to edit the background color
+12. Create the comments for the HTML to keep the file clean and concise to read and write
+13. 
