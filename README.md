@@ -11,8 +11,8 @@ Used all image links within the file.
 ===========
 The Colors
 ===========
-DARK BLUE: #2c3e50
-LIGHT GRAY: #ecf0f1
+DARK BLUE: 
+LIGHT GRAY: 
 
 ## Breakdown/ What we are doing?
 
@@ -40,3 +40,7 @@ LIGHT GRAY: #ecf0f1
 22. Use these classes to set the nave bar flush with the hero buttoned up to it
 23. Test and run all the new code that we have now formatted within these files, one small issue with the padding on the top of the hero 
 24. Apply the padding top property and value on the body selector all the classes hold specificity over the element selector
+25. Create the styles for the jumbotron, apply style to the text and the background color
+26. Use mulit-selector for selecting the classes that we would like to style OVER RIDE the styles of bootstrap
+27. Learning how to style over the bootstrap styles, while using the chrome dev tools to help us understand how to do this
+28. Test and run the code that we currently have created for our image gallery web page 
