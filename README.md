@@ -32,3 +32,5 @@ LIGHT GRAY: #ecf0f1
 14. Use bootstrap to make make use of the grid system to layout all the images
 15. Finish link all images within the html file as well as laying all iamges out within the grid sytem- all nine images
 16. Test and run the code that we have created as the image gallery in grid system
+17. Now we will begin to format the code at the medium breakpoint within our page, using bootstrap
+18. Format the breakpoints using the bootstrap column class names to break the page down cleanly
