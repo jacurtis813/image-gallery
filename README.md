@@ -33,4 +33,7 @@ LIGHT GRAY: #ecf0f1
 2. After creating the files needed and locating the content to fill the image gallery challenge
 3. Copy the link and script tags/ elements to locate the content from within bootstrap
 4. Create our own link to perform our own styling
-5. 
+5. Image content that we are using is from a website called unsplash
+6. Create the first class from the bootstrap cdn within the div container, createing the jumbotron
+7. Use bootstrap to further style the jumbotron, place within the class of container, this applying the border-radius property and margin to the jumbotron
+8. 
