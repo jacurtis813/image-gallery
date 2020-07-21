@@ -44,3 +44,5 @@ LIGHT GRAY:
 26. Use mulit-selector for selecting the classes that we would like to style OVER RIDE the styles of bootstrap
 27. Learning how to style over the bootstrap styles, while using the chrome dev tools to help us understand how to do this
 28. Test and run the code that we currently have created for our image gallery web page 
+29. Learn how to utilize the fonts from font awesome, larger library of these icons
+30. Save all content. This is the final step of the creation. We have complete the challenge largely using the bootstrap framework.
